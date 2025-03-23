@@ -11,6 +11,9 @@ A Flutter application that demonstrates modern app architecture and best practic
 - 🎯 Clean Architecture implementation
 - 🎨 Custom animations and transitions
 
+Screenshots of screens:
+https://imgur.com/a/Rskf1jG
+
 #### Функциональные требования
 **Главный экран (Список персонажей):**
 1. ✅ Отображение списка персонажей в карточках
