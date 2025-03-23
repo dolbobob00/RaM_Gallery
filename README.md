@@ -11,6 +11,13 @@ A Flutter application that demonstrates modern app architecture and best practic
 - 🎯 Clean Architecture implementation
 - 🎨 Custom animations and transitions
 
+#### With internet connection
+https://github.com/user-attachments/assets/c4ae219b-0f56-4a23-8373-fe1b024c9acf
+
+#### Without internet connection
+https://github.com/user-attachments/assets/e4748bed-23bc-4e33-b11f-b981fb766b47
+
+
 Screenshots of screens:
 https://imgur.com/a/Rskf1jG
 
